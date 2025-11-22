@@ -1,5 +1,5 @@
 # Ex2 Count how many times a number appears in an array recursively.
-## DATE:
+## DATE:10-11-2025
 ## AIM:
 To write a Java program to Count how many times a number appears in an array recursively.
 
